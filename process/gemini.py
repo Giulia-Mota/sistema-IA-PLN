@@ -8,8 +8,8 @@ from pandasgui import show
 
 # o Gemini tem um limite de 20 requisições por dia
 # eu já gastei as minhas de hoje, vou testar amanhã para ver se consigo mais 
-# antes de tudo, vocês insiram a chave API de vocês
-# para evitar confusões, vou separar de antemão as partes que cada um deve executar
+# antes de tudo, insiram a chave API de vocês
+# para evitar confusões, separei de antemão as partes que cada um deve executar
 # antes de executar, descomentem apenas o trecho de código com o nome de vocês
 # os valores para as variáveis vão garantir que vocês processem os trechos certos do dataset
 # cada execução gerará um arquivo JSON identificado pelo nome de vocês que depois juntaremos em um único arquivo
@@ -119,3 +119,4 @@ for first in range(start, finish, jump):
     except Exception as e:
         print(e)
         break
+
