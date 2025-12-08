@@ -1,0 +1,1811 @@
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["multiprocessador","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","peneira","escumadeira"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","geladeira","pia"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["multiprocessador","colher","tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["processador","colher de sopa"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","tigela","colher"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela a vapor","cuscuzeira","faca","fogão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","escorredor","pia"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","faca","travessa"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["jarra da prensa francesa","prensa francesa","panela","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["liquidificador","prensa"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["colher","prensa","êmbolo"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["prensa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["xícara de vidro","colher de sorvete"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["peneira","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher","espátula"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["plástico","forma","papel-manteiga","forno"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["bancada","cortador de biscoitos","forma","rolo de massa","faca"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["forno","luva de forno","forma"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher","prato","bandeja"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","tigela","micro-ondas","fogão","colher"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["grade","papel-manteiga"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pote hermético"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["travessa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","pegador","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["refratário","frigideira","colher","espátula"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["refratário","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["processador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["processador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["prato","forma","forno"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela média","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela de fundo grosso","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","tigela","colher","fouet"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher","pinça"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","xícara de chá","fogão","colher","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato","tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["recipiente pequeno","tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher","fouet"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pote com fechamento hermético","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela grande"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela de fundo grosso","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","colher","espátula"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato fundo","concha"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","colher","fouet"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigelas","taças","concha"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["chaleira","panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","recipiente"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["refratário","colher","espátula"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["refratário","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["refratário","plástico filme","faca"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["micro-ondas","refratário","luva de cozinha","colher","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["bancada","faca","tábua de corte"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["refratário grande (apropriado para air fryer)"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["air fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["cesto da air fryer","colher","air fryer"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["air fryer","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato","travessa","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["bancada","faca","tábua de corte"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher","espátula","escorredor"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","colher","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["pote de vidro com tampa","refratário de vidro com tampa","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["xícara","caneca","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["coqueteleira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["coqueteleira","copo rocks"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Faca"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Panela de pressão","Fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela de pressão","Colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela de pressão","Fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela","Frigideira","Fogão","Garfo"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Frigideira","Fogão","Colher"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["Tigela de vidro","Mãos"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Mãos"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","Mãos"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Frigideira grande","Fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Mãos","Tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Mãos"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Frigideira","Fogão","Pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Ralador","Faca","Tábua de corte","Pegador","Espátula","Frigideira","Fogão"],"explicitos":1,"implicitos":6}
+{"utensilios_equipamentos":["Faca","Mãos"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Pia","Medidor"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Fogão","Descascador","Faca","Tábua de corte","Colher","Escorredor"],"explicitos":1,"implicitos":6}
+{"utensilios_equipamentos":["Tábua de corte","Faca"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Travessa","Prato"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Recipiente","Escorredor"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela","Fogão","Pia","Descascador","Faca","Tábua de corte","Escorredor","Colher"],"explicitos":1,"implicitos":7}
+{"utensilios_equipamentos":["Faca","Tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Refratário","Travessa","Colher","Mãos"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Papel-toalha","Pia"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Amassador de alho"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela média","Colher de sopa","Fogão","Colher"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Travessa","Panela"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Mãos"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Pia","Faca","Tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela grande","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Colher","Travessa","Prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Ralador","Faca","Tábua de corte","Pia"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Frigideira","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Frigideira","Fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Colher","Frigideira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Refratário","Forno","Colher","Mãos"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Forno","Luva térmica","Pegador","Prato","Travessa"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Pia","Ralador","Escorredor"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela de arroz","Colher","Panela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Colher","Prato","Travessa"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Ralador"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Mãos"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Frigideira grande","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Pegador","Espátula","Frigideira","Fogão"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Prato","Travessa","Colher","Pegador"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Ralador"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela grande","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Colher","Panela","Prato","Travessa"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Tigela","Pia"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão","Tigela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Refratário","Colher","Prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Recipientes"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela de pressão","Fogão","Medidor"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","Panela","Fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Xícara","Fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Recipiente","Colher","Prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Faca","Tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela grande","Fogão","Colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","Colher","Panela","Fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher","Fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","Colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Colher","Prato","Travessa","Mãos"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Pia"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher","panela de pressão","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","relógio\/timer"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","panela de pressão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","amassador de alho"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","relógio\/timer"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","panela de pressão","garfo","colher"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","ralador"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela grande e funda","fogão","colher","relógio\/timer"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["tigela","panela grande e funda","colher","fogão","relógio\/timer"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["panela grande e funda","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande e funda","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela grande e funda","colher","fogão","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela grande e funda","colher","fogão","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["fogão","panela grande e funda","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["faca","escorredor"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","amassador de alho"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["colher de madeira","espátula de silicone","panela de pressão","fogão"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela de pressão","fogão","relógio\/timer"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["fouet (batedor de arame)","garfo","tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela média","batedeira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["frigideira grande","colher","fogão","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","escorredor","faca"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","escorredor"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher","relógio\/timer"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","forno"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","colher","fogão","relógio\/timer"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["refratário","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","refratário","colher","relógio\/timer"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["ralador","faca","tábua de corte"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["recipiente pequeno","tigela","batedor de arame (fouet)","garfo","colher"],"explicitos":4,"implicitos":1}
+{"utensilios_equipamentos":["travessa","colher","tigela grande"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno","travessa","relógio\/timer"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","tigela grande","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["panela","tigela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa que possa ser levada ao forno","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["espátula","travessa que possa ser levada ao forno"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa que possa ser levada ao forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno","travessa que possa ser levada ao forno","relógio\/timer"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno","relógio\/timer"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca","ralador"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela de vidro grande","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela de vidro grande","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa grande","espátula","forno","relógio\/timer"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","amassador de alho","frigideira","fogão"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","panela","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["travessa","colher de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão","colher","panela grande"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa","colher de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","colher","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","tampa de panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","prato","micro-ondas"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["ralador fino","faca","tábua de corte","espremedor de limão","peneira","tigela"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["tigela pequena"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa","colher de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","recipiente"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","ralador"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela grande","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","refratário","colher de servir"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela média","colher","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela média","colher","fogão","panela para caramelo"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela para caramelo","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela média","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","travessa","colher de servir"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fouet","fogão","panela grande"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa","colher de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["espátula","tampa de panela","panela grande","fogão"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela para caramelo","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","panela grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela grande","colher","travessa","colher de servir"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["refratário","colher de servir"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","travessa","colher de servir"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","refratário","colher de servir"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher de sopa","panela grande","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher","panela grande"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela média","tampa de panela","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela média","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela média","colher","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","travessa","colher de servir"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","escorredor de arroz","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de fundo grosso","espátula","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela de fundo grosso"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["espátula","panela de fundo grosso"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","tigela","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["plástico filme"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["travessa","colher de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["escorredor","panela grande","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher","panela grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["ralador","panela grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa grande","pratos individuais","colher de servir"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela de pressão","tampa de panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Fogão","panela de pressão","travessa"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Escorredor"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Faca","tábua de corte","panela","fogão","colher"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["Fogão","colher","tampa de panela","panela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela","fogão","escorredor"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Escorredor","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Faca"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Fogão","tampa de panela","panela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Fogão","panela","tampa de panela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Garfo","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Escorredor","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","escorredor"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Fogão","tampa de panela","panela"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher grande","panela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Travessa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Escorredor","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","escorredor"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Panela média","tampa de panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Fogão","panela","tampa de panela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Escorredor","descascador de legumes","ralador","faca","tábua de corte"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["Forma de forno","refratário","forno"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Colher","forma de forno","refratário"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Colher","refratário","forma de forno","papel alumínio","forno"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["Papel alumínio","refratário","forma de forno","prato"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela de pressão","fogão","garfo","faca","tábua de corte","escorredor"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Travessa","forno"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Faca","tábua de corte","escorredor","ralador","panela","fogão"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["Panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela de pressão","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Colher","panela de pressão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela de pressão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher","tampa de panela de pressão","fogão","panela de pressão"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Panela de pressão","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela de pressão","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela de pressão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Refratário","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Escorredor"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Faca","tábua de corte","ralador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Frigideira grande","tampa de frigideira","fogão","colher"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Colher","frigideira grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Frigideira grande","fogão","tampa de frigideira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Colher","frigideira grande","tampa de frigideira","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Garfo","panela de pressão","fogão","colher"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Colher de pau","panela de pressão","tampa de panela de pressão","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela de pressão","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher","panela","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Assadeira","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Palitos","barbante culinário"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Colher","papel-alumínio","assadeira","forno"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Assadeira","papel-alumínio","espátula","forno"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Travessa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela","colher","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","peneira","garfo","batedor de arame"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Colher","panela","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Tigela","filme plástico","geladeira"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Escorredor","descascador de legumes","panela grande","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Escorredor","faca","tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Panela","fogão","faca","tábua de corte"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Refratário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Faca","tábua de corte","refratário","escumadeira"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Colher","refratário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Forno","refratário"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Forno","refratário","moedor de pimenta"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Forno","refratário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Refratário"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Prato","escumadeira","panela grande","fogão","garfo"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["faca"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau","amassador de alho"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["escorredor","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","colher de pau","refratário","faca","tábua de corte"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["forno","refratário"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["luva térmica","refratário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","panela que cozinha a vapor","fogão"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pegador","panela","recipiente","panela que cozinha a vapor","fogão"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["faca","tábua de corte","travessa grande"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["travessa grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["travessa grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["travessa grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","travessa grande","forno"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["luva térmica","travessa grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","faca","tábua de corte"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","escumadeira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","faca","tábua de corte","colher de pau"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","colher de pau"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","colher de pau"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","fogão","colher de pau"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["frigideira","colher de pau","fogão","tampa de panela"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["travessa de vidro","refratário","colher"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["travessa de vidro","refratário","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["luva térmica","travessa de vidro","refratário","faca","tábua de corte"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["travessa de vidro","refratário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela de vidro grande","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","tigela de vidro grande","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["potinho","tigela de vidro grande","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela de vidro grande","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela de vidro grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["rolo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma","potinho","garfo","pincel","forno"],"explicitos":5,"implicitos":0}
+{"utensilios_equipamentos":["luva térmica","forma"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","tampa de panela","fogão","colher de pau"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["frigideira antiaderente","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela de pressão"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau","panela grande"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau","tampa de panela"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["outra frigideira","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","frigideira","outra frigideira","colher de pau"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher de ch\r\ná","colher de pau"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","colher de pau","recipiente"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["xícara de chá","panela","fogão","tampa de panela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","colher de pau"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher de pau"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela de fundo grosso","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de fundo grosso","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente retangular","geladeira","colher","panela de fundo grosso"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente retangular"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","fouet"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["colher de sopa","recipiente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["micro-ondas","recipiente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forminhas de silicone","forminhas de gelo","freezer","recipiente"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["pote fechado","geladeira","forminhas de silicone","forminhas de gelo"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tampa de panela","panela grande","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["prato","pegador","panela grande"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["descascador de legumes"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["garfo","frigideira","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","pegador","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","prato"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["colher","espátula pequena"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira de tamanho médio","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira de tamanho médio","fogão","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pincel culinário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["cesta da air fryer","air fryer","pincel culinário"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["air fryer","pinça culinária","garfo"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["Air Fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher pequena"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher pequena"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pincel culinário"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Air Fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Air Fryer"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["taça de banana split","prato estreito"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["boleador de sorvete"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["boleador de sorvete"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua","recipiente"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["micro-ondas","panela para banho-maria","tigela resistente ao calor","fogão","colher"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira antiaderente","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato retangular","travessa para banana split","frigideira antiaderente","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["boleador de sorvete"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["processador","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["processador","liquidificador"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa de vidro de 28 x 18 cm","colher","espátula"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa de vidro de 28 x 18 cm","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua","travessa de vidro de 28 x 18 cm"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa de vidro de 28 x 18 cm"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["travessa de vidro de 28 x 18 cm"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["travessa de vidro de 28 x 18 cm"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["batedeira","colher","travessa de vidro de 28 x 18 cm"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["peneira","travessa de vidro de 28 x 18 cm"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador","refratário"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","refratário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["colher","refratário"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","refratário"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["refratário","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["refratário"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","refratário","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["processador","liquidificador","tigela","colher"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forma de fundo removível de 20 cm de diâmetro","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma de fundo removível de 20 cm de diâmetro","espátula","faca","tábua"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["batedeira","espátula","forma de fundo removível de 20 cm de diâmetro"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["faca","forma de fundo removível de 20 cm de diâmetro"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forma de 24 cm de diâmetro de fundo removível","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","processador","tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["colher","forma de fundo removível","forno"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno","forma de fundo removível","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua","forma de fundo removível"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["batedeira","espátula","colher","forma de fundo removível"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forma de fundo removível"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","forma de fundo removível"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela de vidro","tigela de cerâmica","micro-ondas","colher"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forma para barra de chocolate","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forma para barra de chocolate","tampa da forma para barra de chocolate","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela de vidro","tigela de cerâmica","micro-ondas","colher"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forma para barra de chocolate","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["micro-ondas","forma para barra de chocolate","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","forma para barra de chocolate"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua","recipiente"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["amassador de batatas","prato","garfo","panela de pressão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["prato fundo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["chaleira","panela","fogão","xícara","copo"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["copo rocks"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["macerador","pilão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["copo rocks","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","ralador de corte ondulado"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["pano de prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["air fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["cortador de legumes","mandolim"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pano limpo","papel-toalha","panela m\n\r\tédia","fog\n\r\tão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["mandolim","panela m\n\r\tédia","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa","papel-toalha"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["mandolim","panela m\n\r\tédia","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela","fog\n\r\tão","faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","fog\n\r\tão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","panela","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","panela","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["refrat\n\r\tário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher","esp\n\r\tátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fog\n\r\tão","escorredor de macarr\n\r\tão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","batedor de arame"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["colher","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["refrat\n\r\tário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela","refrat\n\r\tário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fog\n\r\tão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fouet","batedor de arame","panela","fog\n\r\tão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["fouet","panela","fog\n\r\tão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fouet","panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["refrat\n\r\tário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["papel-alum\n\r\tínio","forno","panela","refrat\n\r\tário"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forno","papel-alum\n\r\tínio","refrat\n\r\tário"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forno","ralador de queijo"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["descascador de legumes","faca","t\n\r\tábua de corte","panela","fog\n\r\tão"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["panela","fog\n\r\tão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["travessa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forno","travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["papel-toalha","descascador de legumes","faca","t\n\r\tábua de corte","ralador de queijo"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["travessa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","colher","esp\n\r\tátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["papel-alum\n\r\tínio","forno","travessa"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","colher","fog\n\r\tão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","travessa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["airfryer","faca","t\n\r\tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["t\n\r\tábua","tigela","faca"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["refrat\n\r\tário"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher","refrat\n\r\tário"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["airfryer","refrat\n\r\tário"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","faca","t\n\r\tábua de corte","ralador"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela m\n\r\tédia","fog\n\r\tão","escorredor de macarr\n\r\tão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela m\n\r\tédia","fog\n\r\tão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["travessa","colher","esp\n\r\tátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno","travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forno","descascador de legumes","faca","t\n\r\tábua de corte","ralador de queijo"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["panela","fog\n\r\tão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fog\n\r\tão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["travessa","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela","travessa grande","fog\n\r\tão","escorredor de macarr\n\r\tão"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["air fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["air fryer"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","t\n\r\tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["papel-toalha","escorredor de macarr\n\r\tão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["air fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["assadeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forno","assadeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fog\n\r\tão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["pegador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher","recipiente"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pincel culinário","tigela","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forno","assadeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["micro-ondas","faca","tábua de corte"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["garfo","prato do micro-ondas","micro-ondas"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["micro-ondas","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["micro-ondas","tábua de corte","prato","faca"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["colher"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["garfo"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","multiprocessador","ralador"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau","tigela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["assadeira","forno","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","colher de pau","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["garfo","prato","micro-ondas"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["prato","micro-ondas","faca","tábua de corte","pinça"],"explicitos":4,"implicitos":1}
+{"utensilios_equipamentos":["colher","micro-ondas","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira antiaderente","fogão","espátula"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["descascador de legumes","ralador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pano de prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão","espátula","pincel culinário"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["espátula"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["prato","frigideira","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","espátula","faca","tábua de corte"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["micro-ondas","prato","pinça","garfo","tigela"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["ralador","multiprocessador","tigela","colher"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forma","pincel culinário","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["espátula"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["air fryer","cesto da air fryer","pincel culinário","forma"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forma","air fryer","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","pia"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","fogão","espátula"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","escumadeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["ralador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","pincel culinário","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["espátula"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["prato","frigideira","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["pia","descascador de legumes","ralador","faca","tábua de corte"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","colher de pau"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["peneira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira antiaderente","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["espátula","frigideira","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato","frigideira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","pia"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["assadeira","escorredor de macarrão","panela","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["assadeira","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","assadeira","colher"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["assadeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forno","assadeira","espátula"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["potinho","pilão","frigideira","fogão","colher"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","escumadeira","recipiente"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["descascador de legumes","faca","tábua de corte"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["bowl","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["saquinho de verduras","garfo"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["micro-ondas","saquinho de verduras"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","air fryer"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","pia"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["assadeira","bowl","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["cesto da air fryer","air fryer","espátula"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["air fryer","cesto da air fryer","espátula"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["air fryer","pegador","tigela","travessa","colher"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["descascador de legumes","faca","tábua de corte"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["panela média","fogão","colher","escorredor de macarrão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira grande","fogão","espátula","escumadeira","prato"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["frigideira grande","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["escovinha de alimentos","torneira","pia"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tábua","faca"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher","escorredor de alimentos"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma","forno"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["luva térmica","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","recipiente"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["peneira fina"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["jarra"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela média","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela média","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela média","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela média","bowl","plástico filme"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["colher de sobremesa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["recipiente raso","forminhas","prato"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela pequena","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela pequena","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["plástico"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela pequena","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","colher","panela pequena"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela pequena","prato"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher de sobremesa","recipiente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela média e com fundo grosso","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fogão","panela média e com fundo grosso"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["prato grande","espátula","saquinho","plástico filme"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["prato","forminhas","outro prato"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["balança de cozinha","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","espátula","forno","ralador","processador de alimentos"],"explicitos":4,"implicitos":1}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["colher","tigela grande"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira antiaderente","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira antiaderente","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fogão"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["ralador","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pano de prato","recipiente"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["novo recipiente","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["prato","espátula"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","forma","papel manteiga"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["recipiente"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["rolo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["molde redondo","bico de confeiteiro"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forma","papel manteiga","forno"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","garfo","micro-ondas"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma","prato","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["colher de sobremesa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente raso"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["separador de gemas","recipiente","forno"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","batedeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["peneira","recipiente","batedeira"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","peneira","fouet (batedor de arame)"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma","papel manteiga","pincel de cozinha","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["aro cortador","copo pequeno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["saco de confeitar","espátula pequena"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","colher","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","grade de resfriamento","pinça de cozinha"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente raso"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["garfo","peneira","tigela da batedeira","batedeira"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["batedeira","peneira","fouet (batedor de arame)"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["papel-manteiga","lápis","régua","molde circular pequeno","forma"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["manga de confeiteiro","bico perlê","assadeira","forno"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["assadeira","forno","recipiente","pinça de cozinha","recipiente raso"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["manga de confeiteiro"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","batedeira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","batedeira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["peneira","fouet (batedor de arame)","tigela"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["assadeira","pincel de cozinha","colher de sopa","espátula"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forno","molde circular","cortador de metal","copo"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["colher"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","colher","pinça de cozinha"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["grelha"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["torneira","pia","faca","tábua"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["bowl grande","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["escorredor de alimentos","outro bowl grande"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","panela funda","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["escumadeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["prato","fogão","panela","frigideira","pegador","escumadeira"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["prato de servir","travessa de servir","molheira","tigela para molho"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forno","pia","ralador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela grande","colher"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["peneira","recipiente","outro recipiente","garfo"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","prato raso"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["luva térmica","pegador","espátula","prato de servir","travessa de servir"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["pia","faca","tábua de corte","tigela","colher"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["tigela","colher","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher","tigela","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["pegador","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["fogão","frigideira","pegador"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","escumadeira","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato de servir","travessa de servir","molheira","tigela para molho"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["pia","faca","tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["peneira","colher de pau"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["recipiente (para farinha de trigo)","recipiente (para farinha panko)","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","garfo","recipiente (para farinha de trigo)","recipiente (para farinha panko)"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["cestinho da Air Fryer","Air Fryer"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Air Fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela (para temperar)","prato (para temperar)","prato raso (para amido)","tigela (para amido)"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["frigideira","fogão","pegador","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","colher de sopa","colher","fouet"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de sopa","colher de pau","espátula"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","colher de pau","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","frigideira","colher de pau","espátula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["prato de servir","travessa de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela","peneira"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","fogão","colher","colher de pau","espátula"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["panela","colher","colher de pau","espátula","fogão"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["panela","colher","colher de pau","espátula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","colher","colher de pau","espátula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","colher","colher de pau","espátula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","tampa de panela","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["refratário","colher","concha","prato de servir","travessa de servir"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["pia"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de chá","peneira","pia","recipiente"],"explicitos":3,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","colher de chá","colher de pau","espátula"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","escumadeira","pegador","outro recipiente","colher"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["faca","tábua de corte","frigideira","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["descascador","faca","tábua de corte","frigideira","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":6}
+{"utensilios_equipamentos":["tigela","colher","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["frigideira antiaderente","fogão","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato redondo fundo","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","prato redondo fundo"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["espátula","colher","prato redondo fundo"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato de servir","prato redondo fundo","colher","palitinhos coreanos"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["pratinho"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["garfo","pratinho","prato"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["pratinho","prato","prato limpo"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","pegador","espátula","prato"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["prato de servir"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tábua","faca","martelo de carne"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","prato fundo","fouet","garfo","colher"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["colher","tigela (para panko)","prato (para panko)","panela larga","fogão"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["tigela (para massa)","prato fundo (para massa)","tigela (para panko)","prato (para panko)"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["colher de pau","panela larga","fogão","pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["pegador","escumadeira","grade de alumínio","prato","travessa"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["prato de servir","travessa de servir"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["descascador de alho","faca","tábua de corte","recipiente (para farinha de trigo)","recipiente (para farinha de rosca)","colher"],"explicitos":2,"implicitos":4}
+{"utensilios_equipamentos":["recipiente (para ovos)","garfo","recipiente (para farinha de trigo)","recipiente (para farinha de rosca)"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["tábua","travessa grande","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["recipiente (para farinha de trigo)","recipiente (para ovos)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["garfo","recipiente (para farinha de rosca)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão","pegador","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","escumadeira","pegador","prato","travessa"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["pratinho"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","prato raso","garfo","colher"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato raso (para farinha de rosca)","prato raso (para farinha de trigo)","forma","refratário","pincel culinário","garfo"],"explicitos":5,"implicitos":1}
+{"utensilios_equipamentos":["tigela (para ovos)","prato raso (para ovos)","prato raso (para farinha de rosca)","forma","refratário","forno"],"explicitos":0,"implicitos":6}
+{"utensilios_equipamentos":["luva térmica","pegador","espátula","prato de servir"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forma","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["luva térmica","liquidificador"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","colher","fouet","batedor de arame"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["recipiente (para farinha de trigo)","recipiente (para farinha de pão)","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tábua","travessa grande","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["recipiente (para farinha de trigo)","recipiente (para ovos)","recipiente (para farinha de pão)"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["recipiente (para farinha de trigo)","recipiente (para ovos)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["garfo","recipiente (para farinha de pão)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["prato"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão","pegador","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","prato","travessa","escumadeira","pegador"],"explicitos":0,"implicitos":6}
+{"utensilios_equipamentos":["faca","tábua de corte","descascador de alho","pilão","socador"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["recipientes"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela larga","frigideira","colher de pau","fogão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["prato","papel-toalha","escumadeira","pegador de alimentos","panela larga","frigideira","fogão"],"explicitos":2,"implicitos":5}
+{"utensilios_equipamentos":["travessa","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","pegador de travessa","luva térmica"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte","amassador de alho"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","espátula","pegador de alimentos"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","colher","tampa de panela\/frigideira"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","prato raso","garfo","recipiente grande"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","recipiente grande","prato raso"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","recipiente grande","prato raso"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","travessa","fogão","pegador de alimentos","escumadeira"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["panela","faca","tábua de corte","fogão","colher","espátula"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["travessa","forno","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["travessa","pegador de travessa","luva térmica","prato"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela","recipiente"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["tábua","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["barbante","tesoura"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["peneira","tigela","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","pegador de alimentos","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","pegador de alimentos","escumadeira","tigela","prato"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["panela","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher de pau","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","pegador de alimentos"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","fogão","tampa de panela de pressão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","pegador de alimentos","colher"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["travessa","colher","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tábua"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["palitos de dente","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","faca","tábua de corte","colher"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["colher","panela de pressão","fogão","tampa de panela de pressão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["travessa","panela de pressão","fogão","colher","prato"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["faca","tábua de corte","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tábua","palitos de dente"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher","espátula","pegador de alimentos"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["panela de pressão","fogão","colher","tampa de panela de pressão"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","prato","travessa"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["recipiente","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["prato","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["recipiente"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["prato raso para ovos","recipiente para farinha de rosca","prato para reservar"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão","pegador de alimentos","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","papel-toalha"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","amassador de alho"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["garfo","colher","tigela","recipiente"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","espátula","pegador de alimentos"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","espátula","colher"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca grande","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pegador de alimentos","frigideira","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["pegador de alimentos","frigideira","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","prato"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["chaleira","panela","recipiente","tigela","fogão","colher"],"explicitos":0,"implicitos":6}
+{"utensilios_equipamentos":["tigela","peneira","colher","batedor"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colheres","batedeira","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["espátula","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["saquinho de culinária","geladeira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["rolo","saquinhos de culinária","cortadores","bancada"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forno","assadeira","papel-manteiga"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["grade","pote"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["garfo","balança de cozinha","prato","bandeja"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["forno","forma","pegador de forma","luva térmica","grade"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["moldes natalinos","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher","tigela","recipiente"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["tigela grande","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["batedeira","tigela grande","tigela","recipiente"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["plástico filme","bancada"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["geladeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["geladeira","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Bancada"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Rolo de massa","Bancada","Forno"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Bancada","Molde natalino"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Assadeira","Papel manteiga"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Forno","Assadeira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Grade","Tábua","Potinho de vidro"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Colher","Espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Tigela grande","Colher","Espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Tigela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Bancada","Faca"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Recipiente"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Garfo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Forma","Geladeira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Forno","Forma"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Xícara de café","Prato","Cesta"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Tigela grande","Garfo"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Tigela grande","Colher","Garfo"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Geladeira","Recipiente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Rolo de massa","Bancada"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Cortador decorativo","Faca","Assadeira","Papel manteiga"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["Canudo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Forno","Assadeira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Forno","Bandeja","Grade","Saquinho"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Bancada","Tigela","Fouet","Cortador natalino"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Recipiente","Batedor","Garfo","Tigela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["Rolo de massa","Bancada","Cortador","Assadeira","Geladeira","Forno"],"explicitos":4,"implicitos":2}
+{"utensilios_equipamentos":["Forno","Assadeira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","Colher","Fouet"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Pincel culinário","Saco de confeitar","Colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Grade"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Potinho","Tigela grande","Bancada"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Panela de fundo grosso","Fogão","Bancada"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Panela de fundo grosso","Fogão","Escumadeira","Pinça","Prato","Papel-toalha","Grade"],"explicitos":3,"implicitos":4}
+{"utensilios_equipamentos":["Xícara de café","Prato","Cesta"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Tigela","Colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Colher"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Saco de confeiteiro","Tesoura","Faca"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Forma","Saco de confeiteiro"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Forno","Forma"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Forno","Prato","Bandeja"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Bancada","Potinho"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela","Colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Colher","Tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Luva"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Saco de confeitar","Tesoura","Faca","Assadeira"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Forno","Assadeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Forno","Grade","Saquinho","Xícara de café","Prato","Cesta"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["Bancada"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela","Espátula","Peneira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["Tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Cortador","Faca","Bancada"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Bancada"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Prato","Colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Assadeira","Forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Prato","Bandeja"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Mesa","Bancada","Tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Fouet","Garfo","Tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Espátula","Tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Assadeira","Papel-vegetal"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Garfo","Forno","Assadeira"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Xícara de chá","Copo","Prato","Bandeja"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Ralador","Bancada"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Balança","Bancada","Garfo"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Assadeira antiaderente"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Forno","Assadeira antiaderente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Forno","Grade"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Prato","Bandeja"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Faca","Tábua de corte","Forno"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["Travessa de vidro"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Espremedor de limão","Travessa de vidro"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Travessa de vidro"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["Papel-alumínio","Forno","Travessa de vidro"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["Forno","Travessa de vidro","Pinça","Pegador"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Forno","Travessa de vidro","Pinça","Pegador"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Prato","Talheres"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Faca","Bancada"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Pilão","Mão de pilão","Faca","Tábua de corte"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Faca","Tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Tigela","Bancada"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["Frigideira","Fogão","Pinça","Pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["Frigideira","Pinça","Pegador","Prato"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["Faca","Tábua de corte"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Tigela grande","Espremedor de limão"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["Panela de pressão","Fogão","Colher de pau","Espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","colher de pau"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","tampa da panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão","pegador","prato","travessa","colher"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["bancada","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela grande","fogão","pegador","prato"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["fogão","travessa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca afiada","tábua de corte"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","amassador de alho"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira de acabamento grosso","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira de acabamento grosso","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira de acabamento grosso","fogão","pegador"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","frigideira de acabamento grosso","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Air Fryer"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["Air Fryer","cesta da Air Fryer","pincel culinário"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["Air Fryer","pegador"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["Air Fryer","pegador","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","prato","fogão","pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","tampa da panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["travessa","panela de pressão","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["bancada","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","chapa de ferro","espátula","fogão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["frigideira","chapa de ferro","fogão","pegador"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","pegador","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["pilão","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["frigideira grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira grande","tampa","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","tampa","fogão","pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão","pegador","faca","tábua de corte"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["frigideira grande","tampa","fogão","pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["frigideira grande","prato","travessa","pegador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forma","papel-manteiga","pincel culinário","peneira"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela de vidro","tigela de inox"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["panela pequena","tigela de vidro","tigela de inox","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela de vidro","tigela de inox","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","tigela de vidro","tigela de inox","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela de vidro","tigela de inox","fouet (batedor de arame)","forma","papel-manteiga"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forno","forma"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["palito","forno","forma","faca"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["assadeira","forno","pincel culinário","peneira"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["tigela grande","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["garfo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["assadeira","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma","luva térmica"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente","panela","fogão","micro-ondas","colher"],"explicitos":2,"implicitos":5}
+{"utensilios_equipamentos":["recipiente","papel manteiga","pegador"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["pote hermético"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["assadeira","pincel culinário","peneira"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","espátula"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["assadeira","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno","assadeira"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","recipiente","luva térmica","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["bancada","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["bancada limpa","panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["rolo","bancada limpa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["bancada limpa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["bancada limpa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","bancada limpa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["bancada limpa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["bancada limpa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","garfo","prato","tigela"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","prato","tigela","assadeira","congelador"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["panela","recipiente","papel-toalha","fogão","escumadeira"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["bancada"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela grande","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela grande","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["bancada","colher de pau","saquinho culinário"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forma"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","tigela","garfo","tigela"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["freezer","tigela","tigela","forma","prato"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["panela grande","escumadeira","fogão","termômetro de cozinha"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["prato","papel-toalha","escumadeira"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["recipiente"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","recipiente","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de pressão média","garfo","fogão"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["frigideira com borda alta","faca","tábua de corte","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["frigideira","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau","espátula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["escorredor","amassador de batatas","garfo","tigela","recipiente"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["prato fundo"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela média","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["escumadeira","papel-toalha","panela","fogão","prato"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["travessa","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["air fryer","colher de sobremesa","cesto da air fryer"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["air fryer","cesto da air fryer"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["air fryer","pegador","espátula","travessa","prato"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["colher","tigela grande"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["mixer de mão","processador","tigela grande","recipiente do processador"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["colher","prato","forma"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["cesta da air fryer","air fryer"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["air fryer","cesto da air fryer"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["air fryer","pegador","espátula","travessa","prato"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["colher","espátula","panela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["colher","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","prato","travessa"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["vasilha média","recipiente","colher","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["vasilha média","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["frigideira grande","travessa","papel-toalha","fogão"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["colher de sobremesa","colher de sobremesa"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["frigideira","fogão","espátula","pinça"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["escumadeira","travessa","papel-toalha","frigideira"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["forno","faca","tábua de corte","recipientes"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["forno","papel-alumínio","forma","assadeira"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["frigideira","fogão","colher de pau","espátula"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela de cozimento a vapor"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela de cozimento a vapor","fogão"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["garfo","prato","travessa"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["travessa","colher","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["garfo","faca","prato","tigela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["travessa","colher","espátula","ralador"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","frigideira funda","fogão","termômetro de cozinha"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["papel-toalha","escumadeira","prato","travessa"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["prato","travessa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["processador de alimentos","faca","tábua de corte","recipientes"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","garfo"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["panela","garfo","espremedor de batatas","fogão","recipiente"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["tigela grande","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["espátula","tigela grande"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["assadeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["geladeira","panela","frigideira funda","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["escumadeira","papel-toalha","panela","frigideira funda","fogão","prato","travessa"],"explicitos":2,"implicitos":5}
+{"utensilios_equipamentos":["prato","travessa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["air fryer","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","garfo","panela","fogão","escorredor"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["panela de cozimento a vapor","fogão","amassador de batatas","garfo","tigela"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["tigela grande"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["garfo","tigela grande"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["cesta da air fryer","air fryer"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["pincel de cozinha","borrifador de azeite"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["air fryer","cesta da air fryer"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["geladeira"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","batedor de arame (fouet)","batedeira"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela grande","batedor de arame (fouet)","batedeira","colher"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["tigela grande","colher","espátula"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["colher","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela funda e de tamanho médio","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","escumadeira","pinça"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["escumadeira","prato","papel toalha","panela"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["tigela pequena","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato","travessa"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","tigela média","batedor de arame (fouet)"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela média","batedor de arame (fouet)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela média e funda","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","colher","panela","fogão","escumadeira","pinça"],"explicitos":2,"implicitos":4}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["vasilha","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["copo","colher","prato","panela"],"explicitos":3,"implicitos":1}
+{"utensilios_equipamentos":["panela","escumadeira","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["colher","panela","fogão"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","escumadeira","prato"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","fouet (batedor de arame)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","fouet (batedor de arame)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["panela","colher","escumadeira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador","pano de prato","tigela"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela","espátula"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","escumadeira","recipiente","prato","colher"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["prato","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela de pressão","fogão"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["fogão","panela de pressão","escorredor","tigela"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["garfo","amassador de batatas","tigela"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["tigela"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher de pau"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["panela","colher de pau","fogão"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["travessa"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["cesto da air fryer","pincel de cozinha","air fryer"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","tigela","fouet (batedor de arame)"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","xícara"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["xícara","tigela","espátula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forminhas de papel","forma para cupcake","colher"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno","forma para cupcake"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno","luvas térmicas"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["peneira","forma retangular","pincel de cozinha","forno"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","espátula"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma retangular","forno","palito de dente","garfo"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forno","luvas térmicas","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forno","forma redonda com furo central","pincel de cozinha","ralador"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","tigela","fouet (batedor de arame)","espátula"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda com furo central","forno","palito de dente"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno","luvas térmicas","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["batedeira","tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["batedeira"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["batedeira"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["batedeira","espátula"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["espátula","tigela"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["espátula","tigela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma","forno","palito de dente"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno","luvas térmicas","grade"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["faca","forma"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["prato"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno","forma","pincel de cozinha"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["pote","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["liquidificador","forma","forno","palito de dente"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela","fogão","colher de pau"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forno","luvas térmicas","garfo"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["prato\/travessa"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["tigela","prato\/travessa"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forma retangular","pincel de cozinha","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["liquidificador","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forma retangular"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno","palito de dente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","luvas térmicas","prato"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["liquidificador","recipiente"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forma","pincel de cozinha","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma","colher"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["forno","luvas térmicas","faca","xícara"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["forma redonda com furo no meio","pincel de cozinha","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","tigela","fouet (batedor de arame)"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda com furo no meio","forno"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","prato"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","faca","tábua de corte"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["fogão","assadeira","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["assadeira"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["panela","fog\r\nfogo"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["fog\r\nfogo","panela"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["colher","forma"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","batedeira"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","batedeira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","batedeira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela","fouet (batedor de arame)","batedeira","colher","esp\r\n\tula"],"explicitos":0,"implicitos":5}
+{"utensilios_equipamentos":["forma","forno","colher","esp\r\n\tula"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forma","prato","boleira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["prato","boleira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","recipiente pequeno"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","colher","esp\r\n\tula","fouet"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["forma de 23 X 33 cm","pincel culin\r\n\rio","papel toalha"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma de 23 X 33 cm","colher"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","forma de 23 X 33 cm"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma de 23 X 33 cm","prato","boleira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forma redonda de furo central","forno","pincel culin\r\n\rio","papel toalha"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet (batedor de arame)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda de furo central","forno"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","forma redonda de furo central","prato","boleira"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forma de 20 cm de di\r\n\tmetro","pincel culin\r\n\rio","papel toalha"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["palito","forma de 20 cm de di\r\n\tmetro","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de fundo grosso","colher","esp\r\n\tula"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela","pl\r\n\tstico","fog\r\nfogo","panela de fundo grosso","colher","esp\r\n\tula"],"explicitos":2,"implicitos":4}
+{"utensilios_equipamentos":["faca","t\r\n\tbua de corte","escorredor"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forno","forma de 20 cm de di\r\n\tmetro","prato","boleira","faca","pano de prato","esponja"],"explicitos":0,"implicitos":7}
+{"utensilios_equipamentos":["tigela pequena","colher","fouet"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["tigela da batedeira","batedeira"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forma de 20 cm de di\r\n\tmetro","saco pl\r\n\tstico","concha","colher"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["esp\r\n\tula","concha","colher","forma de 20 cm de di\r\n\tmetro"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["pl\r\n\tstico","geladeira","prato","boleira","forma de 20 cm de di\r\n\tmetro"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["esp\r\n\tula","saco de confeitar","bico de confeiteiro","prato","boleira"],"explicitos":3,"implicitos":2}
+{"utensilios_equipamentos":["faca","prato","boleira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forno","forma de 20 cm de di\r\n\tmetro","pincel culin\r\n\rio","papel toalha"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","tigela m\r\n\tdia","fouet (batedor de arame)"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["peneira","tigela m\r\n\tdia","fouet (batedor de arame)"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["palito","forma de 20 cm de di\r\n\tmetro","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela de fundo grosso","fouet"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["esp\r\n\tula","fog\r\nfogo","panela de fundo grosso"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno","forma de 20 cm de di\r\n\tmetro","prato","boleira","faca","colher","concha"],"explicitos":0,"implicitos":7}
+{"utensilios_equipamentos":["saco de confeitar","bico de confeiteiro","esp\r\n\tula","geladeira","prato","boleira"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["tigela","micro-ondas","faca","t\r\n\tbua de corte","panela","fog\r\nfogo","colher","esp\r\n\tula"],"explicitos":2,"implicitos":6}
+{"utensilios_equipamentos":["colher","geladeira","prato","boleira","esp\r\n\tula"],"explicitos":1,"implicitos":4}
+{"utensilios_equipamentos":["prato","boleira","faca"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forno","forma redonda de 20 cm de di\r\n\tmetro","pincel culin\r\n\rio","papel toalha"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","colher","fouet"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","tigela grande","colher","fouet"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["peneira","tigela grande","colher","fouet"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["palito","forma redonda de 20 cm de di\r\n\tmetro","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela pequena","recipiente","bisnaga","fog\r\nfogo","colher","fouet"],"explicitos":3,"implicitos":3}
+{"utensilios_equipamentos":["panela","fog\r\nfogo","colher"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["tigela da batedeira","faca","t\r\n\tbua de corte","colher","esp\r\n\tula","fouet"],"explicitos":1,"implicitos":5}
+{"utensilios_equipamentos":["peneira","batedeira","tigela da batedeira"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["geladeira","pote","recipiente"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["faca","linha grossa","forma redonda de 20 cm de di\r\n\tmetro","prato","boleira"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["prato grande","forma redonda de 20 cm de di\r\n\tmetro","pl\r\n\tstico filme","esp\r\n\tula","concha","colher"],"explicitos":4,"implicitos":2}
+{"utensilios_equipamentos":["pl\r\n\tstico filme","concha","colher","esp\r\n\tula","geladeira","forma redonda de 20 cm de di\r\n\tmetro","prato grande"],"explicitos":1,"implicitos":6}
+{"utensilios_equipamentos":["colher","pl\r\n\tstico filme","geladeira","prato","boleira","esp\r\n\tula"],"explicitos":2,"implicitos":4}
+{"utensilios_equipamentos":["prato","boleira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","geladeira"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["esp\r\n\tula","colher","liquidificador"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma redonda (24 x 07 cm)","pincel culin\r\n\rio","papel toalha"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda (24 x 07 cm)","forno"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","forma redonda (24 x 07 cm)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda (24 x 07 cm)","prato","boleira","faca"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["panela","fog\r\nfogo","peneira","escorredor"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forno","forma (20x5)","escorredor","pincel culin\r\n\rio","papel toalha"],"explicitos":2,"implicitos":3}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["esp\r\n\tula","colher","liquidificador"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma (20x5)","forno"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forno","forma (20x5)","prato","boleira"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["forno","recipiente"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["liquidificador","escorredor"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda (22x7 cm)"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma redonda (22x7 cm)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda (22x7 cm)","prato","boleira"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forma redonda (18 cm)","forno","pincel culin\r\n\rio","papel toalha"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["prato","garfo"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["potinho","tigela maior","batedor de arame (fouet)"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["fouet","tigela maior"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["palito","tigela maior","fouet","colher","esp\r\n\tula","forma redonda (18 cm)","forno"],"explicitos":1,"implicitos":6}
+{"utensilios_equipamentos":["prato","boleira","faca"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["forma (20 x 30 cm)","forno","pincel culin\r\n\rio","papel toalha","descascador de legumes","faca","t\r\n\tbua de corte"],"explicitos":2,"implicitos":5}
+{"utensilios_equipamentos":["tigela grande","fouet"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["palito","forma (20 x 30 cm)","forno"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["panela pequena"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["espátula de silicone","fogão","panela pequena"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["fouet","tigela"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["espátula","colher","tigela"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["espátula","colher","tigela"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["refratário pequeno de 15 X 15 cm","micro-ondas"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","micro-ondas"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["colher","refratário pequeno de 15 X 15 cm"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda com furo central","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","liquidificador","prato"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["tigela","colher"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["espátula","palito","forma redonda com furo central","forno"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["recipiente","forma redonda de furo central","forno"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","batedeira","fouet","colher"],"explicitos":4,"implicitos":0}
+{"utensilios_equipamentos":["colher","batedeira","tigela"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma redonda de furo central","forno","palito de dente"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno","prato","boleira"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda com furo central","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente pequeno","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["liquidificador","tigela","espátula"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda com furo central","forno","palito de dente"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente","garfo"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["potinho separado","recipiente","garfo"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["garfo","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["garfo","recipiente"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","forma retangular","forno"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["recipiente separado","tigela","fouet"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["tigela","fouet"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma retangular"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["espátula","forma retangular"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forno","palito","forma retangular"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno","xícara"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela","batedor de metal","peneira"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma retangular de 33 x 23 cm"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma retangular de 33 x 23 cm"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["recipiente","colher de sopa","colher de chá"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno","palito","forma retangular de 33 x 23 cm"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["faca"],"explicitos":0,"implicitos":1}
+{"utensilios_equipamentos":["assadeira redonda de 20 cm"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["potinho separado","recipiente grande","batedor de arame (fouet)"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["recipiente grande","batedor de arame (fouet)"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["assadeira redonda de 20 cm","faca","tábua de corte"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forno","assadeira redonda de 20 cm"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["palito","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["forno","forma redonda com furo no meio"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["tigela média","batedor de arame (fouet)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["batedor de arame (fouet)","tigela média"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma redonda com furo no meio","espátula","colher"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno","palito","forma redonda com furo no meio"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forno"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","faca","tábua de corte"],"explicitos":0,"implicitos":4}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forma","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet (batedor de arame)","peneira"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":["forma redonda com furo central"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["forno","palito","forma redonda com furo central"],"explicitos":2,"implicitos":1}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["panela","fogão","faca","tábua de corte","forma","forno"],"explicitos":2,"implicitos":4}
+{"utensilios_equipamentos":["recipiente","liquidificador"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["tigela","fouet","colher"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["forma","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forno","faca"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente"],"explicitos":1,"implicitos":2}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":["forma redonda com furo central de 20 cm de diâmetro","forno"],"explicitos":2,"implicitos":0}
+{"utensilios_equipamentos":[],"explicitos":0,"implicitos":0}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente","forma"],"explicitos":2,"implicitos":2}
+{"utensilios_equipamentos":["faca","tábua de corte","panela de pressão","fogão"],"explicitos":1,"implicitos":3}
+{"utensilios_equipamentos":["panela de pressão","tigela","garfo","amassador de batata","fogão"],"explicitos":4,"implicitos":1}
+{"utensilios_equipamentos":["tigela","garfo"],"explicitos":0,"implicitos":2}
+{"utensilios_equipamentos":["forma","forno","palito"],"explicitos":3,"implicitos":0}
+{"utensilios_equipamentos":["forno","faca"],"explicitos":1,"implicitos":1}
+{"utensilios_equipamentos":["faca","tábua de corte","recipiente"],"explicitos":0,"implicitos":3}
+{"utensilios_equipamentos":["liquidificador"],"explicitos":1,"implicitos":0}
+{"utensilios_equipamentos":["tigela grande","fouet (batedor de arame)"],"explicitos":2,"implicitos":0}
