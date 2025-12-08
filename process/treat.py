@@ -75,5 +75,5 @@ for i, file in enumerate(files):
 
 
 df = pd.DataFrame(all)
-df.to_json("../dataset.json", orient="records", lines=True, force_ascii=False, mode="a")
+df.to_json("../recipes.json", orient="records", lines=True, force_ascii=False, mode="a")
 show(df)
