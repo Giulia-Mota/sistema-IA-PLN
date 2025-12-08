@@ -25,9 +25,9 @@ from pandasgui import show
 #finish = 6000
 
 # GIULIA
-#nome = "giulia"
-#start = 6000
-#finish = 8000
+nome = "giulia"
+start = 6000
+finish = 8000
 
 # JOSÉ
 #nome = "jose"
@@ -36,7 +36,7 @@ from pandasgui import show
 
 
 try:
-    client = genai.Client(api_key="")
+    client = genai.Client(api_key="AIzaSyBf6ONuXTTpwVyE1TEomTJjjO9iB-PaY7Y")
 except Exception as e:
     print(f"client error: {e}")
     exit()
@@ -84,7 +84,7 @@ output_schema = Schema(
     )
 )
 
-json_file = "../steps.json"
+json_file = "C:/Users/jujum/OneDrive/Documents/Receitas IA/receitas-PLN/steps.json"
 all_df = pd.read_json(json_file, orient="records", lines=True)
 jump = 100
 
