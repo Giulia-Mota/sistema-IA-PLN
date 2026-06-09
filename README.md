@@ -2,7 +2,7 @@
 
 Trabalho prático desenvolvido para a disciplina de Inteligência Artificial da Universidade Federal de São João del-Rei (UFSJ).
 
-Enquanto o primeiro módulo do projeto é focado em aprendizado supervisionado e sistemas de recomendação, este repositório concentra-se na etapa de **coleta, processamento e estruturação de dados culinários** por meio de técnicas de **Web Scraping**, **Processamento de Linguagem Natural (PLN)** e **IA Generativa**.
+Enquanto o primeiro módulo do projeto é focado em aprendizado supervisionado e sistemas de recomendação, este repositório concentra-se na etapa de coleta, processamento e estruturação de dados culinários por meio de técnicas de Web Scraping, Processamento de Linguagem Natural (PLN) e IA Generativa.
 
 O objetivo é transformar receitas disponíveis na web em uma base de dados estruturada, padronizada e adequada para aplicações de mineração de dados e sistemas inteligentes.
 
@@ -20,9 +20,9 @@ Responsável pela aquisição dos dados diretamente de sites de receitas.
 
 Principais componentes:
 
-* `get_links.py` — coleta automática de URLs de receitas.
-* `requests.py` — download do conteúdo HTML das páginas.
-* `recipe_links.txt` — armazenamento das URLs coletadas.
+* `get_links.py`: coleta automática de URLs de receitas.
+* `requests.py`: download do conteúdo HTML das páginas.
+* `recipe_links.txt`: armazenamento das URLs coletadas.
 
 Nesta etapa são obtidos os dados brutos que servirão como entrada para o processamento textual.
 
