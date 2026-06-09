@@ -4,16 +4,6 @@ import json
 import pandas as pd
 from pandasgui import show
 
-# LEIAM ANTES DE EXECUTAR #
-
-# o Gemini tem um limite de 20 requisições por dia
-# eu já gastei as minhas de hoje, vou testar amanhã para ver se consigo mais 
-# antes de tudo, insiram a chave API de vocês
-# para evitar confusões, separei de antemão as partes que cada um deve executar
-# antes de executar, descomentem apenas o trecho de código com o nome de vocês
-# os valores para as variáveis vão garantir que vocês processem os trechos certos do dataset
-# cada execução gerará um arquivo JSON identificado pelo nome de vocês que depois juntaremos em um único arquivo
-
 # ANDRÉ
 #nome = "andre"
 #start = 2000
@@ -25,18 +15,18 @@ from pandasgui import show
 #finish = 6000
 
 # GIULIA
-nome = "giulia"
-start = 6000
-finish = 8000
+#nome = "giulia"
+#start = 6000
+#finish = 8000
 
 # JOSÉ
-#nome = "jose"
-#start = 8000
-#finish = 10000
+nome = "jose"
+start = 8000
+finish = 10000
 
 
 try:
-    client = genai.Client(api_key="AIzaSyBf6ONuXTTpwVyE1TEomTJjjO9iB-PaY7Y")
+    client = genai.Client(api_key="")
 except Exception as e:
     print(f"client error: {e}")
     exit()
@@ -95,7 +85,7 @@ for first in range(start, finish, jump):
 
     try:
         chat = client.chats.create(
-            model="gemini-2.5-flash",
+            model="gemma-3-12b",
             history=[
                 {
                     "role": "user",
