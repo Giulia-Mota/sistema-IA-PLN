@@ -205,8 +205,8 @@ A base produzida por este projeto pode ser utilizada em:
 
 ## Desenvolvedores
 
-* André Arcuri Martins
-* Gabriel da Silva Souza
-* Giulia Mota Apinagés dos Santos
-* Guilherme De Luca Testoni Neiva Pereira
-* José Vitor Santos Alves
+* André Arcuri Martins - https://github.com/kojumax
+* Gabriel da Silva Souza - https://github.com/Gabriel-Souza18
+* Giulia Mota Apinagés dos Santos - https://github.com/Giulia-Mota
+* Guilherme De Luca Testoni Neiva Pereira - https://github.com/delucaguilherme
+* José Vitor Santos Alves - https://github.com/JoseVitor2004
